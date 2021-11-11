@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://68.183.100.143:8081/repository/ebay-release/</url>
+	      <url>http://68.183.100.143:8081/repository/test1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
